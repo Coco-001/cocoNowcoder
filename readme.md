@@ -1,4 +1,4 @@
-<img src="https://uploadfiles.nowcoder.com/images/20200918/63_1600411072844_22E9FCAB3FDEAC64452DAA8AD9CBD14C#picture = central" style="zoom:10%;" />
+<img src="https://uploadfiles.nowcoder.com/images/20200918/63_1600411072844_22E9FCAB3FDEAC64452DAA8AD9CBD14C" style="width:10%;" />
 
 ​	![](https://img.shields.io/badge/Spring Boot-2.1.5.RELEASE-brightgreen)![](https://img.shields.io/badge/Spring Security-5.4.5-brightgreen)![](https://img.shields.io/badge/JDK-1.8-brightgreen)![](https://img.shields.io/badge/MySql-8.0.15-brightgreen)![](https://img.shields.io/badge/Redis-5.0.14-brightgreen)
 
