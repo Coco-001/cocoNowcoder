@@ -1,6 +1,6 @@
 <img src="https://uploadfiles.nowcoder.com/images/20200918/63_1600411072844_22E9FCAB3FDEAC64452DAA8AD9CBD14C#pic_center" style="width:20%;" />
 
-​	  ![](https://img.shields.io/badge/Spring Boot-2.1.5.RELEASE-brightgreen)![](https://img.shields.io/badge/Spring Security-5.4.5-brightgreen)![](https://img.shields.io/badge/JDK-1.8-brightgreen)![](https://img.shields.io/badge/MySql-8.0.15-brightgreen)![](https://img.shields.io/badge/Redis-5.0.14-brightgreen)
+​	  ![](https://img.shields.io/badge/SpringBoot-2.1.5.RELEASE-brightgreen)![](https://img.shields.io/badge/SpringSecurity-5.4.5-brightgreen)![](https://img.shields.io/badge/JDK-1.8-brightgreen)![](https://img.shields.io/badge/MySql-8.0.15-brightgreen)![](https://img.shields.io/badge/Redis-5.0.14-brightgreen)
 
 ​	![](https://img.shields.io/badge/Mybatis-3.5.1-brightgreen)![](https://img.shields.io/badge/fastjson-1.2.58-brightgreen)![](https://img.shields.io/badge/Quartz-2.3.2-brightgreen)![](https://img.shields.io/badge/maven-3.6.3-brightgreen)![](https://img.shields.io/badge/kafka-2.2.6-brightgreen)![](https://img.shields.io/badge/elasticsearch-6.3.0-brightgreen)
 
